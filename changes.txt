@@ -1,0 +1,12 @@
+$ files to replace:
+'utils/header.php'
+'utils/footer.php'
+'utils/login_header.php'
+'utils/register_header.php'
+'utils/tech_event_header.php'
+'utils/styles.php'
+(old code is commented out in the above files as backup)
+
+$ original 'index.php' was converted to plain text file named 'original_index.txt'
+
+$ to work with project with new home page: simply copy paste 'assets' folder into main project folder and replace the above mentioned files(again, old code is also present in these files but commented out.)  
